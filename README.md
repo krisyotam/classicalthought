@@ -9,11 +9,14 @@ ___
 > — Henry David Thoreau
 ___
 Classical Thought is a project I started with intentions of later adding to my mathematics [curricula](). This project intends to do something about a fundamental issue in society
-**learning**. I will attempt to deal with this issue by introducint what I call the Liberal Arts Quadrivium which is in a sense a revised and expanded [Trivium]() which includes the fundamental skills
-most important to learning, communicating, and teaching. 
+**learning**. I will attempt to deal with this issue by introducing what I call Classical Thinking which is redifining the fundamental skills
+most important to learning. That being reading, writing, speaking, and thinking. 
 
 The goal here is to examine the modern frameworks for teaching **reading**, **writing**, **thinking**, and **speaking**. To understand the fundamental flaws in these systems, and then to reconstruct them. 
 We will work on each of these skill's independantly and together. 
+
+Here I will guide you to the excercises I will use to refine my own ability. It is not meant to do any of the work for you but rather tell you the beasts you should slay. It is in slaying these beasts you will reap
+the reward of refinement in ability. 
 
 #### What is this?
 - A guide to improving reading, writing, thinking, and speaking
