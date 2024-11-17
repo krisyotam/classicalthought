@@ -26,5 +26,6 @@ Most of these structures of though have been layed out in various levels of deta
 [Syntactic & Symbolic Thinking](https://github.com/spamegg1/abstract-thinking/blob/main/symbolic.md)  
 [Systems Thinking](https://github.com/spamegg1/abstract-thinking/blob/main/system.md)  
 [Temporal & Imperative Thinking](https://github.com/spamegg1/abstract-thinking/blob/main/temporal.md)  
+[Visual Thinking](https://github.com/spamegg1/abstract-thinking/blob/main/visual.md)
 [Unified Theory](https://github.com/spamegg1/abstract-thinking/blob/main/unified.md)  
 [Physical World Analogies](https://github.com/spamegg1/abstract-thinking/blob/main/physical.md)  
